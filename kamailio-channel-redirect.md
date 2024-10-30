@@ -218,3 +218,20 @@ Common issues and solutions:
    - Monitor cache hit ratio
    - Optimize database indexes
    - Adjust cache size if needed
+
+
+I've created a comprehensive guide for setting up channel name redirection to Freebox while preserving channel names. The key components are:
+
+1. Database table for channel mapping
+2. Kamailio configuration with:
+   - Channel name preservation
+   - Freebox redirection
+   - Caching for better performance
+3. Management scripts for adding/updating channels
+4. Monitoring and maintenance tools
+
+Would you like me to explain any specific part in more detail? For example:
+- Setting up specific channel mappings
+- Configuring Freebox integration
+- Implementing custom channel naming rules
+- Troubleshooting specific issues
